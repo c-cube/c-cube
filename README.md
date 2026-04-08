@@ -3,7 +3,8 @@ Hi, I'm Simon. I live in Washington DC, and I'm a long time OCaml programmer, al
 
 Most of my information can be found at the following places:
 - [personal website](https://simon.cedeela.fr)
-- <a rel="me" href="https://hachyderm.io/@c_cube">Mastodon account</a>
+- <a rel="me" href="https://hachyderm.io/@c_cube">Fedi account</a>
+
 
 [^1]: I like https://cbor.io/ and the general design of thrift; I also made [my own format](https://twine-data.dev/).
 [^2]: not blockchain though, I'm not into rugpulls.
